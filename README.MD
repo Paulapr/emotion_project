@@ -9,8 +9,6 @@
 
 -- Entrenamiendo del modelo mediante una base de datos de imágenes, creada por la universidad de Ginebra (GAPED), 730 imágenes con una valor de arousal y valencia asociado.
 
-file:///home/paula/Escritorio/Final_project/Eje%20arousal-valencia.jpg
-
 -- Se entrenará al modelo con los datos EEG del registro y los valores de valencia y arousal asociados a las imágenes.
 
 ## **HERRAMIENTAS**
